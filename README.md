@@ -34,5 +34,5 @@ Bem-vindo ao repositório **Imersão Hashtag Python** o objetivo aqui é salvar 
 <!-- ALL-TOPICS-LIST:END -->
 
 <p align="center">
-<img width="200" height="100" src="images/logo1.webp"> 
+<img width="150" height="100" src="images/logo1.webp"> 
 </p>
