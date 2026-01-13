@@ -8,7 +8,7 @@ Bem-vindo ao repositório **Imersão Hashtag Python** o objetivo aqui é salvar 
 
 **************
 
-<br><br><br>
+<br>
 
 <!-- ALL-TOPICS-LIST:START -->
 <!-- prettier-ignore-start -->
