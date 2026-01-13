@@ -11,8 +11,6 @@ Bem-vindo ao repositório **Imersão Hashtag Python** o objetivo aqui é salvar 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <center>
-
-
 <table>
   <tr>
     <td align="center"><a href="Aula1/"><img src="images/aula1.jpg" width="200px;" height="100px;" alt="DevOps" /><br /><b>Aula1</b></a></td>
@@ -26,7 +24,6 @@ Bem-vindo ao repositório **Imersão Hashtag Python** o objetivo aqui é salvar 
   </tr>
 
 </table>
-
 </center>
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
