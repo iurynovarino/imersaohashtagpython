@@ -1,7 +1,7 @@
 Bem-vindo ao repositório **Imersão Hashtag Python** o objetivo aqui é salvar os gabaritos dos projetos desse curso de imersão. Nesse evento eu construo 4 projetos práticos completos em Python partindo do zero.
 
 <p align="center">
-<img width="150" src="images/logo.png"> 
+<img width="200" src="images/logo1.webp"> 
 </p>
 
 ## 💻 Aula 1 - Automação de tarefas e Bots
