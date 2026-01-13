@@ -1,9 +1,9 @@
 Bem-vindo ao repositório **Imersão Hashtag Python** o objetivo aqui é salvar os gabaritos dos projetos desse curso de imersão. Nesse evento eu construo 4 projetos práticos completos em Python partindo do zero.
 
-** 💻 Aula 1 - Automação de tarefas e Bots
-** 💻 Aula 2 - Python Insights
-** 💻 Aula 3 - Python IA
-** 💻 Aula 4 - Python Dev
+- ** 💻 Aula 1 - Automação de tarefas e Bots
+- ** 💻 Aula 2 - Python Insights
+- ** 💻 Aula 3 - Python IA
+- ** 💻 Aula 4 - Python Dev
 
 - **🔗 Link Útil**: [Jornada Python da Hashtag](https://lp.hashtagtreinamentos.com/inscricao-intensivao-de-python-google?conversion=lcto-lpy23-jun25&origemurl=193950865870&origemads=788121156718&utm_source=google-ads&utm_campaign=23363099269&utm_medium=193950865870&utm_content=788121156718&utm_term=aula%20python&gad_source=1&gad_campaignid=23363099269&gbraid=0AAAAADLlh8_to3MMK8-C53zuL3xGmoXnU&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7hcDeSS7Ov_LBWVcd0vNzPLgwKphbA4WiOkA-YKQ9GVfAFJr3sFeQMaAi_5EALw_wcB)
 
