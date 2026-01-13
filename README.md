@@ -5,13 +5,15 @@ Bem-vindo ao repositório **Imersão Hashtag Python** o objetivo aqui é salvar 
 </p>
 
 - **🔗 Link Útil**: [Jornada Python da Hashtag](https://lp.hashtagtreinamentos.com/inscricao-intensivao-de-python-google?conversion=lcto-lpy23-jun25&origemurl=193950865870&origemads=788121156718&utm_source=google-ads&utm_campaign=23363099269&utm_medium=193950865870&utm_content=788121156718&utm_term=aula%20python&gad_source=1&gad_campaignid=23363099269&gbraid=0AAAAADLlh8_to3MMK8-C53zuL3xGmoXnU&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7hcDeSS7Ov_LBWVcd0vNzPLgwKphbA4WiOkA-YKQ9GVfAFJr3sFeQMaAi_5EALw_wcB)
+
 **************
+
 <br><br><br>
 
 <!-- ALL-TOPICS-LIST:START -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<center>
+<div align="center">
 <table>
   <tr>
     <td align="center"><a href="Aula1/"><img src="images/aula1.jpg" width="200px;" height="100px;" alt="DevOps" /><br /><b>Aula1</b></a></td>
@@ -25,7 +27,7 @@ Bem-vindo ao repositório **Imersão Hashtag Python** o objetivo aqui é salvar 
   </tr>
 
 </table>
-</center>
+</div>
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
